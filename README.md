@@ -12,4 +12,6 @@ Key terms from [Learn the Basics | Rect Native](https://reactnative.dev/docs/tut
 | ----------- | ----------- |
 | `Component` | anything you see on the screen (i.e text, button) |
 | `props` | parameters/inputs that can be accepted by a `Component`; read-only |
-| `state` | behavior of a `Component`; can be modified/changed; also a varaible; is initalized and managed internally within a `Component` |
+| `state` | behavior of a `Component`; can be modified/changed; also a varaible; is initalized and managed internally within a `Component` |  
+
+- Was able to go through the [Setting up the development environment](https://reactnative.dev/docs/environment-setup) guide

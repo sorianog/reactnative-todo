@@ -1,4 +1,4 @@
-# ToDo List App made with [React Native](https://reactnative.dev/)
+# ToDo List App made with [React Native](https://reactnative.dev/) (coming soon)
 
 ## Dev Journal:
 

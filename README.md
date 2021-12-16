@@ -2,6 +2,7 @@
 
 ## Dev Journal:
 
+- Entry 5: Wed, 12/15 7:04PM PT, currently stopped at the `01:13:28 List, ScrollView & RefreshControl` section of the previously mentioned video
 - Entry 4: Sun, 12/12 11:17AM PT, switched off to a different YouTube video (more recent, enticing title): [The Complete React Native Course 2021 : from Zero to Hero
 ](https://www.youtube.com/watch?v=ANdSdIlgsEw)
 - Entry 3: Sat, 12/11 9:52AM PT, resuming a YouTube tutorial with this video: [React Native Tutorial #4 - Using State](https://www.youtube.com/watch?v=1FiIYaRr148)  
